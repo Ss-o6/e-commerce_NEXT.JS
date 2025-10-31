@@ -1,0 +1,1 @@
+Add your product images into public/images/ and reference them from components.

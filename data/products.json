@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Mouse",
+    "slug": "wireless-mouse",
+    "description": "Ergonomic wireless mouse with USB receiver.",
+    "price": 799,
+    "category": "accessories",
+    "inventory": 25,
+    "lastUpdated": "2025-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Mechanical Keyboard",
+    "slug": "mechanical-keyboard",
+    "description": "RGB mechanical keyboard with blue switches.",
+    "price": 2999,
+    "category": "accessories",
+    "inventory": 8,
+    "lastUpdated": "2025-10-20T09:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Bluetooth Earphones",
+    "slug": "bluetooth-earphones",
+    "description": "Wireless in-ear earphones with mic and noise cancellation.",
+    "price": 1599,
+    "category": "audio",
+    "inventory": 30,
+    "lastUpdated": "2025-09-22T09:30:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Smartwatch Pro",
+    "slug": "smartwatch-pro",
+    "description": "Fitness smartwatch with heart rate and sleep tracking.",
+    "price": 4999,
+    "category": "wearables",
+    "inventory": 15,
+    "lastUpdated": "2025-09-15T10:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "USB-C Power Bank 20000mAh",
+    "slug": "powerbank-20000",
+    "description": "Fast charging power bank with dual USB output.",
+    "price": 1899,
+    "category": "electronics",
+    "inventory": 18,
+    "lastUpdated": "2025-08-10T11:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Gaming Laptop",
+    "slug": "gaming-laptop",
+    "description": "Powerful gaming laptop with RTX graphics and 16GB RAM.",
+    "price": 79999,
+    "category": "computers",
+    "inventory": 5,
+    "lastUpdated": "2025-09-18T14:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "LED Monitor 24-inch",
+    "slug": "led-monitor-24",
+    "description": "Full HD LED monitor with thin bezels and HDMI support.",
+    "price": 8999,
+    "category": "computers",
+    "inventory": 12,
+    "lastUpdated": "2025-09-28T10:00:00.000Z"
+  }
+]
